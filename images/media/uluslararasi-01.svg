@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 900" role="img" aria-label="Uluslararası akademik çalışma - temsili görsel">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F3F1EA"/><stop offset="100%" stop-color="#EDE9DF"/></linearGradient></defs>
+<rect width="700" height="900" fill="url(#g)"/>
+<circle cx="490" cy="41" r="150" fill="#DDE4DC" opacity="0.43"/>
+<circle cx="194" cy="843" r="143" fill="#C7D3C6" opacity="0.56"/>
+<circle cx="14" cy="829" r="239" fill="#DDE4DC" opacity="0.60"/>
+<circle cx="482" cy="98" r="251" fill="#C7D3C6" opacity="0.55"/>
+<circle cx="98" cy="420" r="235" fill="#DDE4DC" opacity="0.41"/>
+<circle cx="121" cy="829" r="168" fill="#C7D3C6" opacity="0.51"/>
+<circle cx="586" cy="89" r="126" fill="#DDE4DC" opacity="0.54"/>
+<line x1="0" y1="225" x2="700" y2="225" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="477" x2="700" y2="477" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="729" x2="700" y2="729" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+</svg>

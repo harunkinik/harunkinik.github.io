@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" role="img" aria-label="Akademik sunum - temsili görsel">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F3F1EA"/><stop offset="100%" stop-color="#EDE9DF"/></linearGradient></defs>
+<rect width="700" height="700" fill="url(#g)"/>
+<circle cx="306" cy="665" r="202" fill="#DDE4DC" opacity="0.50"/>
+<circle cx="305" cy="11" r="184" fill="#C7D3C6" opacity="0.41"/>
+<circle cx="189" cy="312" r="206" fill="#DDE4DC" opacity="0.40"/>
+<circle cx="587" cy="404" r="200" fill="#C7D3C6" opacity="0.56"/>
+<circle cx="297" cy="377" r="126" fill="#DDE4DC" opacity="0.59"/>
+<line x1="0" y1="175" x2="700" y2="175" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="371" x2="700" y2="371" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="567" x2="700" y2="567" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+</svg>

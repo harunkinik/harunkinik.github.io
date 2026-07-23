@@ -1,0 +1,14 @@
+{
+  "name": "Op. Dr. Abdullah Harun Kınık",
+  "short_name": "Harun Kınık",
+  "description": "Üroloji Uzmanı — Çocuk Ürolojisi, Robotik Üroloji, Rekonstrüktif Üroloji",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "lang": "tr",
+  "background_color": "#FAFAF7",
+  "theme_color": "#153F32",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

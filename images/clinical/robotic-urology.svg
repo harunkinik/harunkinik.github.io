@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="Robotik üroloji bölümü için soyut, nötr temsili görsel">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F3F1EA"/><stop offset="100%" stop-color="#EDE9DF"/></linearGradient></defs>
+<rect width="900" height="720" fill="url(#g)"/>
+<circle cx="510" cy="456" r="101" fill="#DDE4DC" opacity="0.48"/>
+<circle cx="746" cy="298" r="179" fill="#C7D3C6" opacity="0.40"/>
+<circle cx="296" cy="485" r="190" fill="#DDE4DC" opacity="0.42"/>
+<circle cx="88" cy="192" r="198" fill="#C7D3C6" opacity="0.46"/>
+<circle cx="681" cy="139" r="187" fill="#DDE4DC" opacity="0.36"/>
+<circle cx="113" cy="643" r="112" fill="#C7D3C6" opacity="0.59"/>
+<circle cx="417" cy="373" r="223" fill="#DDE4DC" opacity="0.58"/>
+<line x1="0" y1="180" x2="900" y2="180" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="382" x2="900" y2="382" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="583" x2="900" y2="583" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+</svg>

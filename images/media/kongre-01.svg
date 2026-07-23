@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 560" role="img" aria-label="Bilimsel kongre - temsili görsel">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F3F1EA"/><stop offset="100%" stop-color="#EDE9DF"/></linearGradient></defs>
+<rect width="700" height="560" fill="url(#g)"/>
+<circle cx="81" cy="196" r="163" fill="#DDE4DC" opacity="0.54"/>
+<circle cx="1" cy="168" r="154" fill="#C7D3C6" opacity="0.51"/>
+<circle cx="426" cy="524" r="212" fill="#DDE4DC" opacity="0.57"/>
+<circle cx="171" cy="339" r="192" fill="#C7D3C6" opacity="0.60"/>
+<circle cx="288" cy="373" r="209" fill="#DDE4DC" opacity="0.56"/>
+<line x1="0" y1="140" x2="700" y2="140" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="297" x2="700" y2="297" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="454" x2="700" y2="454" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 625" role="img" aria-label="Böbrek taşı tedavisi yazısı kapak görseli - soyut temsili">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F3F1EA"/><stop offset="100%" stop-color="#EDE9DF"/></linearGradient></defs>
+<rect width="1000" height="625" fill="url(#g)"/>
+<circle cx="574" cy="203" r="262" fill="#DDE4DC" opacity="0.57"/>
+<circle cx="465" cy="527" r="231" fill="#C7D3C6" opacity="0.45"/>
+<circle cx="411" cy="574" r="244" fill="#DDE4DC" opacity="0.38"/>
+<circle cx="128" cy="145" r="123" fill="#C7D3C6" opacity="0.44"/>
+<circle cx="894" cy="476" r="239" fill="#DDE4DC" opacity="0.56"/>
+<circle cx="629" cy="454" r="167" fill="#C7D3C6" opacity="0.54"/>
+<circle cx="176" cy="398" r="137" fill="#DDE4DC" opacity="0.47"/>
+<line x1="0" y1="156" x2="1000" y2="156" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="331" x2="1000" y2="331" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="506" x2="1000" y2="506" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+</svg>

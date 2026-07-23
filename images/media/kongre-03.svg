@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 660" role="img" aria-label="Bilimsel kongre - temsili görsel">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F3F1EA"/><stop offset="100%" stop-color="#EDE9DF"/></linearGradient></defs>
+<rect width="700" height="660" fill="url(#g)"/>
+<circle cx="65" cy="439" r="89" fill="#DDE4DC" opacity="0.44"/>
+<circle cx="227" cy="636" r="206" fill="#C7D3C6" opacity="0.47"/>
+<circle cx="429" cy="323" r="149" fill="#DDE4DC" opacity="0.55"/>
+<circle cx="37" cy="364" r="171" fill="#C7D3C6" opacity="0.37"/>
+<circle cx="695" cy="211" r="145" fill="#DDE4DC" opacity="0.41"/>
+<circle cx="563" cy="227" r="83" fill="#C7D3C6" opacity="0.41"/>
+<circle cx="136" cy="378" r="88" fill="#DDE4DC" opacity="0.45"/>
+<line x1="0" y1="165" x2="700" y2="165" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="350" x2="700" y2="350" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="535" x2="700" y2="535" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+</svg>

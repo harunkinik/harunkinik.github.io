@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 625" role="img" aria-label="Çocuklarda idrar yolu enfeksiyonu yazısı kapak görseli - soyut temsili">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#F3F1EA"/><stop offset="100%" stop-color="#EDE9DF"/></linearGradient></defs>
+<rect width="1000" height="625" fill="url(#g)"/>
+<circle cx="246" cy="135" r="147" fill="#DDE4DC" opacity="0.35"/>
+<circle cx="520" cy="387" r="215" fill="#C7D3C6" opacity="0.55"/>
+<circle cx="739" cy="560" r="274" fill="#DDE4DC" opacity="0.43"/>
+<circle cx="21" cy="465" r="226" fill="#C7D3C6" opacity="0.35"/>
+<circle cx="859" cy="232" r="180" fill="#DDE4DC" opacity="0.53"/>
+<circle cx="15" cy="510" r="211" fill="#C7D3C6" opacity="0.55"/>
+<line x1="0" y1="156" x2="1000" y2="156" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="331" x2="1000" y2="331" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+<line x1="0" y1="506" x2="1000" y2="506" stroke="rgba(21,63,50,0.14)" stroke-width="1"/>
+</svg>
