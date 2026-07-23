@@ -30,8 +30,7 @@ düz HTML/CSS'i doğrudan kabul eder). Bugün için buna gerek yoktur.
 ├── index.html                  Ana sayfa
 ├── hakkimda.html
 ├── ilgi-alanlari.html
-├── akademik-calismalar.html
-├── yayinlar.html
+├── akademik-calismalar.html     Araştırma alanları + Yayınlar bölümü
 ├── medya.html
 ├── bilgilendirme.html          Blog listesi
 ├── bilgilendirme/              Blog yazıları (her biri ayrı .html)
@@ -146,9 +145,10 @@ fotoğraf eklemek için:
 | `images/seo/og-image.svg` | 1200×630 | 1200×630 | Open Graph / sosyal medya paylaşım görseli — **gerçek fotoğraf eklendiğinde mutlaka `.jpg` veya `.png` yapın**, bazı platformlar (Facebook/LinkedIn) SVG önizlemesini desteklemez. |
 
 ### Yayın (Publication) Ekleme
-`yayinlar.html` içinde `<!-- YAYIN: ... -->` yorumuyla işaretli bir `<article class="pub-card">`
-bloğunu kopyalayıp bilgileri güncelleyin. **Gerçek DOI/PubMed linkiniz yoksa o alanı
-`aria-disabled="true"` ile "eklenecek" olarak bırakın — sahte link eklemeyin.**
+`akademik-calismalar.html` içindeki **Yayınlar** bölümünde (`id="yayinlar"`), `<!-- YAYIN: ... -->`
+yorumuyla işaretli bir `<article class="pub-card">` bloğunu kopyalayıp bilgileri güncelleyin.
+**Gerçek DOI/PubMed linkiniz yoksa o alanı `aria-disabled="true"` ile "eklenecek" olarak
+bırakın — sahte link eklemeyin.**
 
 ### Blog Yazısı Ekleme
 1. `bilgilendirme/` klasöründeki mevcut bir `.html` dosyasını kopyalayın.
@@ -221,7 +221,7 @@ Aşağıdaki listede "Henüz Sağlamanız Gerekenler" bölümüne bakın — tü
 
 ## 11. Placeholder Olarak Bırakılan İçerikler
 
-- Yayınlar sayfasındaki 3 örnek yayın kartı (`[Örnek]` etiketli, sahte DOI/PubMed içermez)
+- Akademik Çalışmalar sayfasındaki Yayınlar bölümünde 3 örnek yayın kartı (`[Örnek]` etiketli, sahte DOI/PubMed içermez)
 - Akademik Çalışmalar sayfasındaki "Öne Çıkan Proje" kutusu (açıkça "örnek/taslak yapı" olarak işaretli)
 - 6 adet bilgilendirme yazısı (genel/güvenli eğitici metinler; her birinin altında "taslak, hekim
   onayı gerektirir" notu bulunur)
