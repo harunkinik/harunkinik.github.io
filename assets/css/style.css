@@ -1090,6 +1090,7 @@ footer.site-footer {
   grid-template-columns: 1.4fr 1fr 1fr;
   gap: 40px;
 }
+.footer-logo { width: 52px; height: 52px; object-fit: contain; margin-bottom: 14px; }
 .footer-brand h3 { font-size: 1.15rem; }
 .footer-brand p { margin-top: 6px; color: var(--text-muted); font-size: 0.9rem; }
 .footer-col h4 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--text-muted); margin-bottom: 14px; }
