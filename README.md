@@ -139,7 +139,6 @@ fotoğraf eklemek için:
 | `images/clinical/reconstructive-urology.svg` | 5:4 | 1200×960 | İlgi Alanları — Rekonstrüktif Üroloji |
 | `images/clinical/endourology.svg` | 5:4 | 1200×960 | İlgi Alanları — Endoüroloji |
 | `images/robotic-urology-feature.svg` | 2:1 (geniş) | 1920×960 | Ana sayfa — Robotik cerrahi bölümü |
-| `images/research/featured-project.svg` | 4:3 | 1200×900 | Akademik Çalışmalar — Öne çıkan proje |
 | `images/media/*.svg` | çeşitli (masonry) | min. 800px genişlik | Medya galerisi |
 | `images/blog/*.svg` | 16:10 | 1200×750 | Bilgilendirme kapak görselleri |
 | `images/seo/og-image.jpg` | 1200×630 | 1200×630 | Open Graph / sosyal medya paylaşım görseli (WhatsApp, LinkedIn, X). SVG kullanmayın — çoğu platform SVG önizlemesini göstermez. |
@@ -221,7 +220,6 @@ Aşağıdaki listede "Henüz Sağlamanız Gerekenler" bölümüne bakın — tü
 ## 11. Placeholder Olarak Bırakılan İçerikler
 
 - Akademik Çalışmalar sayfasındaki Yayınlar bölümünde 3 örnek yayın kartı (`[Örnek]` etiketli, sahte DOI/PubMed içermez)
-- Akademik Çalışmalar sayfasındaki "Öne Çıkan Proje" kutusu (açıkça "örnek/taslak yapı" olarak işaretli)
 - 6 adet bilgilendirme yazısı (genel/güvenli eğitici metinler; her birinin altında "taslak, hekim
   onayı gerektirir" notu bulunur)
 - Tüm görseller (soyut SVG placeholder'lar)
