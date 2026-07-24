@@ -142,7 +142,7 @@ fotoğraf eklemek için:
 | `images/research/featured-project.svg` | 4:3 | 1200×900 | Akademik Çalışmalar — Öne çıkan proje |
 | `images/media/*.svg` | çeşitli (masonry) | min. 800px genişlik | Medya galerisi |
 | `images/blog/*.svg` | 16:10 | 1200×750 | Bilgilendirme kapak görselleri |
-| `images/seo/og-image.svg` | 1200×630 | 1200×630 | Open Graph / sosyal medya paylaşım görseli — **gerçek fotoğraf eklendiğinde mutlaka `.jpg` veya `.png` yapın**, bazı platformlar (Facebook/LinkedIn) SVG önizlemesini desteklemez. |
+| `images/seo/og-image.jpg` | 1200×630 | 1200×630 | Open Graph / sosyal medya paylaşım görseli (WhatsApp, LinkedIn, X). SVG kullanmayın — çoğu platform SVG önizlemesini göstermez. |
 
 ### Yayın (Publication) Ekleme
 `akademik-calismalar.html` içindeki **Yayınlar** bölümünde (`id="yayinlar"`), `<!-- YAYIN: ... -->`
@@ -207,7 +207,6 @@ Aşağıdaki listede "Henüz Sağlamanız Gerekenler" bölümüne bakın — tü
 - Öne çıkan araştırma projesi görseli
 - Medya galerisi için gerçek kongre/eğitim/ameliyathane fotoğrafları
 - Blog yazıları için kapak görselleri
-- Open Graph paylaşım görseli (`images/seo/og-image.svg` yerine, tercihen `.jpg`/`.png`)
 
 ## 10. Henüz Sağlamanız Gereken Kişisel Bilgiler ve Bağlantılar
 
