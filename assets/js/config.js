@@ -8,5 +8,5 @@
    güvenlik amacıyla otomatik olarak devre dışı kalır.
    ========================================================================== */
 window.SITE_CONFIG = {
-  formspreeEndpoint: "https://formspree.io/f/YOUR_FORM_ID"
+  formspreeEndpoint: "https://formspree.io/f/meeypgpv"
 };
