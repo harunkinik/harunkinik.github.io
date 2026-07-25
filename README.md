@@ -140,7 +140,7 @@ fotoğraf eklemek için:
 | `images/clinical/endourology.svg` | 5:4 | 1200×960 | İlgi Alanları — Endoüroloji |
 | `images/robotic-urology-feature.svg` | 2:1 (geniş) | 1920×960 | Ana sayfa — Robotik cerrahi bölümü |
 | `images/media/*.svg` | çeşitli (masonry) | min. 800px genişlik | Medya galerisi |
-| `images/blog/*.svg` | 16:10 | 1200×750 | Bilgilendirme kapak görselleri |
+| `images/blog/*.jpg` | çeşitli (object-fit: cover) | min. 1300px kenar | Bilgilendirme kapak görselleri |
 | `images/seo/og-image.jpg` | 1200×630 | 1200×630 | Open Graph / sosyal medya paylaşım görseli (WhatsApp, LinkedIn, X). SVG kullanmayın — çoğu platform SVG önizlemesini göstermez. |
 
 ### Yayın (Publication) Ekleme
