@@ -281,10 +281,10 @@ section { position: relative; }
   font-size: 0.8rem;
   color: var(--text-muted);
   letter-spacing: 0.05em;
-  opacity: 0.6;
-  cursor: default;
   white-space: nowrap;
+  transition: color 0.25s var(--ease);
 }
+.nav-lang:hover { color: var(--text); }
 .nav-lang b { color: var(--text); }
 
 .theme-toggle, .menu-toggle {
